@@ -1,4 +1,3 @@
 # python-ml
 
-Here are all my assignments from CPSC 330 exploring machine learning techniques coded in Python:
-- Server Checker
+Here jupyernotebooks where I explore machine learning techniques from CPSC 330 coded in Python. I used pandas and various sklearn libraries.
